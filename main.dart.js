@@ -80041,7 +80041,7 @@ i=j[2]
 h=[400*d/(d+27.13),400*c/(c+27.13),400*i/(i+27.13)]
 return new A.aan(l,(40*h[0]+20*h[1]+h[2])/20*k,k,k,a1,1,q,m,A.CP(m,0.25),1.48+e)})
 s($,"aJd","aur",()=>new A.a5b())
-r($,"aLV","ajv",()=>{var q,p=null,o="http://localhost:8080/",n=$.aur(),m=A.b([],t.d)
+r($,"aLV","ajv",()=>{var q,p=null,o="https://7965-2-134-110-28.ngrok-free.app/",n=$.aur(),m=A.b([],t.d)
 m=new A.Vf(o,m,n,!0,p,B.B_,p,p)
 m.Wv(o,n,p,p,!0,p,p,p,p)
 n=new A.XU(m,A.aqt(p,A.as("al_")))
